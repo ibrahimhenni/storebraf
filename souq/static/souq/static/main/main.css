@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Tajawal';
+    src: url('../fonts/Tajawal-Regular.ttf')format("truetype"), local('Tajawal');
+}
+
+html,
+body {
+    direction: ltr;
+    text-align: leftt;
+    background-color: #ffffff;
+}
+
+body {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}

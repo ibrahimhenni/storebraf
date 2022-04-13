@@ -1,0 +1,276 @@
+[{
+        "model": "souq.Product",
+        "pk": 1,
+        "fields": {
+            "aff_url": "https://amzn.to/3hFiC6E",
+            "title": "Acer Aspire 5 A515-46-R3UB | 15.6\" Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | Windows 11 Home in S mode",
+            "price": "369.99",
+            "oldprice": "399.99",
+            "image": "https://m.media-amazon.com/images/I/7189iXimfWL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 2,
+        "fields": {
+            "aff_url": "https://amzn.to/3IKlnzC",
+            "title": "Acer Nitro 5 AN515-55-53E5 Gaming Laptop | Intel Core i5-10300H | NVIDIA GeForce RTX 3050 Laptop GPU | 15.6\" FHD 144Hz IPS Display | 8GB DDR4 | 256GB NVMe SSD | Intel Wi-Fi 6 | Backlit Keyboard",
+            "price": "785.41",
+            "oldprice": "839.99",
+            "image": "https://m.media-amazon.com/images/I/81bc8mA3nKL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 3,
+        "fields": {
+            "aff_url": "https://amzn.to/3MzI9N5",
+            "title": "Lenovo Flex 5 Laptop, 14.0\" FHD Touch Display, AMD Ryzen 5 5500U, 16GB RAM, 256GB Storage, AMD Radeon Graphics, Windows 11 Home",
+            "price": "599.99",
+            "oldprice": "849.99",
+            "image": "https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 4,
+        "fields": {
+            "aff_url": "https://amzn.to/3trFKLC",
+            "title": "Samsung Tab A7 Lite 8.7\" Gray 32GB (SM-T220NZAAXAR)",
+            "price": "159.00",
+            "oldprice": "159.00",
+            "image": "https://m.media-amazon.com/images/I/819hAP4xoGS._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 5,
+        "fields": {
+            "aff_url": "https://amzn.to/35vKRCq",
+            "title": "CYBERPOWERPC Gamer Xtreme VR Gaming PC, Intel Core i5-11600KF 3.9GHz, 16GB DDR4, GeForce RTX 3060 12GB, 500GB NVMe SSD, 1TB HDD, WiFi Ready & Win 11 Home (GXiVR8480A10)",
+            "price": "1599.99",
+            "oldprice": "1599.99",
+            "image": "https://m.media-amazon.com/images/I/71FLsWWmE8L._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 6,
+        "fields": {
+            "aff_url": "https://amzn.to/35wjkAP",
+            "title": "HP 15-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)",
+            "price": "99",
+            "oldprice": "99",
+            "image": "https://m.media-amazon.com/images/I/71RD3vsjIYL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 7,
+        "fields": {
+            "aff_url": "https://amzn.to/3sI0OhA",
+            "title": "Samsung Galaxy Tab A7 10.4 Wi-Fi 32GB Silver (SM-T500NZSAXAR)",
+            "price": "213.68",
+            "oldprice": "229.99",
+            "image": "https://m.media-amazon.com/images/I/71MvL2kCFCL._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 8,
+        "fields": {
+            "aff_url": "https://amzn.to/3vE68UZ",
+            "title": "Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6\" Full HD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard",
+            "price": "1279.99",
+            "oldprice": "1279.99",
+            "image": "https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 9,
+        "fields": {
+            "aff_url": "https://amzn.to/3trGFM4",
+            "title": "CYBERPOWERPC Gamer Xtreme VR Gaming PC, Intel Core i5-11400F 2.6GHz, 8GB DDR4, GeForce RTX 2060 6GB, 500GB NVMe SSD, WiFi Ready & Win 11 Home (GXiVR8060A11)",
+            "price": "964.99",
+            "oldprice": "1014.99",
+            "image": "https://m.media-amazon.com/images/I/81Wx7hw9vwL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 10,
+        "fields": {
+            "aff_url": "https://amzn.to/3hKrWpL",
+            "title": "HP Pavilion 15 Laptop, 11th Gen Intel Core i7-1165G7 Processor, 16 GB RAM, 512 GB SSD Storage, Full HD IPS Micro-Edge Display, Windows 11 Pro, Compact Design, Long Battery Life (15-eg0025nr, 2021)",
+            "price": "838.83",
+            "oldprice": "944.99",
+            "image": "https://m.media-amazon.com/images/I/711Nx6ZoRML._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 11,
+        "fields": {
+            "aff_url": "https://amzn.to/3hBTiP9",
+            "title": "Acer Aspire TC-1660-UA92 Desktop | 10th Gen Intel Core i5-10400 6-Core Processor | 12GB 2666MHz DDR4 | 512GB NVMe M.2 SSD | 8X DVD | Intel Wireless Wi-Fi 6 | Bluetooth 5.2 | Windows 10 Home",
+            "price": "549.00",
+            "oldprice": "619.99",
+            "image": "https://m.media-amazon.com/images/I/616BXacLrRS._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 12,
+        "fields": {
+            "aff_url": "https://amzn.to/3pzdx43",
+            "title": "HP 14 Laptop, AMD Ryzen 5 5500U, 8 GB RAM, 256 GB SSD Storage, 14-inch Full HD Display, Windows 11 Home, Thin & Portable, Micro-Edge & Anti-Glare Screen, Long Battery Life (14-fq1025nr, 2021)",
+            "price": "99",
+            "oldprice": "99",
+            "image": "https://m.media-amazon.com/images/I/71IOwQhjZNL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 13,
+        "fields": {
+            "aff_url": "https://amzn.to/3HH5Hf9",
+            "title": "Nokia T20 | Android 11 | 10.36-Inch Screen | Tablet | US Version | 4/64GB | 8MP Camera | Ocean Blue",
+            "price": "99",
+            "oldprice": "99",
+            "image": "https://m.media-amazon.com/images/I/71xJ7ehWVfL._AC_SX342_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 14,
+        "fields": {
+            "aff_url": "https://amzn.to/3HJQtpw",
+            "title": "MSI GL66 Gaming Laptop: 15.6\" 144Hz FHD 1080p Display, Intel Core i7-11800H, NVIDIA GeForce RTX 3070, 16GB, 512GB SSD, Win10, Black (11UGK-001)",
+            "price": "1259.00",
+            "oldprice": "1499.00",
+            "image": "https://m.media-amazon.com/images/I/61Ze2wc9nyS._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 15,
+        "fields": {
+            "aff_url": "https://amzn.to/3pCcm48",
+            "title": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Angora Blue - SM-P610NZBAXAR - S Pen Included",
+            "price": "295.99",
+            "oldprice": "349.99",
+            "image": "https://m.media-amazon.com/images/I/415G0bg-hiL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 16,
+        "fields": {
+            "aff_url": "",
+            "title": "Lenovo Legion 5 Gaming Laptop, 15.6\" FHD Display, AMD Ryzen 7 5800H, 16GB RAM, 512GB Storage, NVIDIA GeForce RTX 3050Ti, Windows 11 Home, Phantom Blue",
+            "price": "1029.99",
+            "oldprice": "1139.99",
+            "image": "https://m.media-amazon.com/images/I/81PbOX7ZtaL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 17,
+        "fields": {
+            "aff_url": "https://amzn.to/3KySnLR",
+            "title": "Lenovo Tab M8 Tablet, HD Android Tablet, Quad-Core Processor, 2GHz, 32GB Storage, Full Metal Cover, Long Battery Life, Android 9 Pie, Slate Black",
+            "price": "96.99",
+            "oldprice": "96.99",
+            "image": "https://m.media-amazon.com/images/I/61Kl83tu0TL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 18,
+        "fields": {
+            "aff_url": "https://amzn.to/3vAr0wx",
+            "title": "Samsung Electronics Galaxy Tab A8 Android Tablet, 10.5\u201d LCD Screen, 32GB Storage, Long-Lasting Battery, Samsung Electronics Kids Content, Smart Switch, Expandable Memory, Dark Gray",
+            "price": "229",
+            "oldprice": "229.97",
+            "image": "https://m.media-amazon.com/images/I/61krikJxTmL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 19,
+        "fields": {
+            "aff_url": "https://amzn.to/3HMnoKe",
+            "title": "HP Stream 14 inches HD(1366x768) Display, Intel Celeron N4000 Dual-Core Processor, 4GB RAM, 64GB eMMC, HDMI, WiFi, Webcam, Bluetooth, Win10 S, Royal Blue(Renewed)",
+            "price": "224",
+            "oldprice": "224.99",
+            "image": "https://m.media-amazon.com/images/I/71sOrI1hB9L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 20,
+        "fields": {
+            "aff_url": "https://amzn.to/3vEPDYM",
+            "title": "MSI Stealth 15M Gaming Laptop: 15.6\" 144Hz FHD 1080p Display, Intel Core i7-11375H, NVIDIA GeForce RTX 3060, 16GB, 512GB SSD, Thunderbolt 4, WiFi 6, Win10, Carbon Gray (A11UEK-009)",
+            "price": "1189.00",
+            "oldprice": "1399.00",
+            "image": "https://m.media-amazon.com/images/I/71p3Ygm14wL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 21,
+        "fields": {
+            "aff_url": "https://amzn.to/3ILdREr",
+            "title": "ASUS TUF Dash 15 (2021) Ultra Slim Gaming Laptop, 15.6\u201d 144Hz FHD, GeForce RTX 3050 Ti, Intel Core i7-11370H, 8GB DDR4, 512GB PCIe NVMe SSD, Wi-Fi 6, Windows 10, Eclipse Grey Color, TUF516PE-AB73",
+            "price": "949",
+            "oldprice": "949.99",
+            "image": "https://m.media-amazon.com/images/I/81Tx3MJBkSL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 22,
+        "fields": {
+            "aff_url": "https://amzn.to/3HN6xXz",
+            "title": "ASUS Laptop L210 11.6\u201d Ultra Thin, Intel Celeron N4020 Processor, 4GB RAM, 64GB eMMC Storage, Windows 10 Home in S Mode with One Year of Office 365 Personal, L210MA-DB02",
+            "price": "219.99",
+            "oldprice": "249.99",
+            "image": "https://m.media-amazon.com/images/I/71Hy5SYr3tL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 23,
+        "fields": {
+            "aff_url": "https://amzn.to/35OAJEK",
+            "title": "HP Chromebook 11-inch Laptop - MediaTek - MT8183 - 4 GB RAM - 32 GB eMMC Storage - 11.6-inch HD Display - with Chrome OS\u2122 - (11a-na0010nr, 2020 Model)",
+            "price": "199",
+            "oldprice": "200",
+            "image": "https://m.media-amazon.com/images/I/81EY2GIfktL._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 24,
+        "fields": {
+            "aff_url": "https://amzn.to/35P1AQM",
+            "title": "(Renewed) 2017 Apple MacBook Air with 1.8GHz Intel Core i5 (13-inch, 8GB RAM, 128GB SSD Storage)",
+            "price": "362.00",
+            "oldprice": "399.00",
+            "image": "https://m.media-amazon.com/images/I/91wYB53Y4aL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 25,
+        "fields": {
+            "aff_url": "https://amzn.to/3MqjOcr",
+            "title": "Lenovo IdeaPad 3 Laptop, 14.0\" FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 256GB Storage, AMD Radeon 7 Graphics, Windows 11 Home, Abyss Blue",
+            "price": "499.99",
+            "oldprice": "533.06",
+            "image": "https://m.media-amazon.com/images/I/71hhgeQCrOL._AC_SY355_.jpg"
+        }
+    }
+]

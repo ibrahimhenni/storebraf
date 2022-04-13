@@ -1,0 +1,99 @@
+{% extends 'souq/main.html' %}{% load static %} {% block content %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container mt-3 mb-5">
+    <h1 class="card p-2 shadow-sm bg-dark text-light ">Products</h1>
+
+
+    <div class="row ">
+
+        {% for product in products %}
+
+        <div class="card shadow mt-4 ml-4" style="width: 18rem;">
+            <a class=" card p-2 " style=" width: 17.9rem; height:19rem; " href=" {{product.aff_url}} ">
+                <img src="{{ product.image }}" class="card-img-top" style=" width: 17rem; height:17rem; " alt="...">
+            </a>
+            <div class="card-body">
+                <h5 class="card-title">
+                    <a href="{{product.aff_url}} ">{{product.title|slice:'70'}}..</a>
+                </h5>
+                <p class="card-text">
+
+                    <span class="text-danger font-weight-bold ">${{product.price}}</span>
+                    <small style="text-decoration: line-through; ">
+                        <span class="text-success  font-weight-bold ">${{product.oldprice}}</span>
+                    </small>
+                </p>
+                <a href="{{product.aff_url}}" class="btn btn-primary">View</a>
+            </div>
+        </div>
+
+
+        {% endfor %}
+
+    </div>
+</div>
+
+
+<!-- paginator -->
+{% if products.has_other_pages %}
+<div class="container ">
+    <div class="col ">
+        <div class="offset-md-4 ">
+            <nav aria-label="... ">
+                <ul class="pagination ">
+                    <li class="page-item ">
+                        {% if products.has_previous %}
+                        <a href="?page={{products.previous_page_number}} " class="page-link ">Previous</a> {% endif %}
+                    </li>
+                    <!-- <li class="page-item active ">
+                        <a class="page-link " href="?page={{products.number}} ">{{products.number}}</a>
+                    </li> -->
+                    {% for page in products.paginator.page_range %}
+
+                    <li class="page-item " aria-current="page ">
+                        <a class="page-link " href="?page={{page}} ">{{page}}</a>
+                    </li>
+                    {% endfor %}
+
+                    <li class="page-item ">
+                        {% if products.has_next %}
+                        <a href="?page={{products.next_page_number}} " class=" page-link ">Next</a>{% endif %}
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+</div>{% endif %} 
+<div class="container ">
+    <div class="col ">
+        <script type="text/javascript">
+            amzn_assoc_placement = "adunit0";
+            amzn_assoc_tracking_id = "abouselaf-20";
+            amzn_assoc_ad_mode = "search";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_default_search_phrase = "phone watchs";
+            amzn_assoc_default_category = "All";
+            amzn_assoc_linkid = "4085d5eb665ec21702b1f930278c72d3";
+            amzn_assoc_search_bar = "true";
+            amzn_assoc_search_bar_position = "top";
+            amzn_assoc_title = "Shop Related Products";
+        </script>
+        <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+    </div>
+</div>{% endblock %}
