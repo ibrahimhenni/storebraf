@@ -1,276 +1,1146 @@
 [{
         "model": "souq.Product",
-        "pk": 1,
+        "pk": 187,
         "fields": {
-            "aff_url": "https://amzn.to/3hFiC6E",
-            "title": "Acer Aspire 5 A515-46-R3UB | 15.6\" Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | Windows 11 Home in S mode",
-            "price": "369.99",
-            "oldprice": "399.99",
-            "image": "https://m.media-amazon.com/images/I/7189iXimfWL._AC_SX355_.jpg"
-        }
-    },
-    {
-        "model": "souq.Product",
-        "pk": 2,
-        "fields": {
-            "aff_url": "https://amzn.to/3IKlnzC",
-            "title": "Acer Nitro 5 AN515-55-53E5 Gaming Laptop | Intel Core i5-10300H | NVIDIA GeForce RTX 3050 Laptop GPU | 15.6\" FHD 144Hz IPS Display | 8GB DDR4 | 256GB NVMe SSD | Intel Wi-Fi 6 | Backlit Keyboard",
-            "price": "785.41",
-            "oldprice": "839.99",
-            "image": "https://m.media-amazon.com/images/I/81bc8mA3nKL._AC_SX425_.jpg"
-        }
-    },
-    {
-        "model": "souq.Product",
-        "pk": 3,
-        "fields": {
-            "aff_url": "https://amzn.to/3MzI9N5",
-            "title": "Lenovo Flex 5 Laptop, 14.0\" FHD Touch Display, AMD Ryzen 5 5500U, 16GB RAM, 256GB Storage, AMD Radeon Graphics, Windows 11 Home",
+            "aff_url": "https://amzn.to/3JAgKaK",
+            "title": "Acer Swift 3 Thin & Light Laptop | 14\" Full HD IPS 100% sRGB Display | AMD Ryzen 7 5700U Octa-Core Processor | 8GB LPDDR4X | 512GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | SF314-43-R2YY",
             "price": "599.99",
-            "oldprice": "849.99",
-            "image": "https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SX355_.jpg"
+            "oldprice": "749.99",
+            "image": "https://m.media-amazon.com/images/I/71zRcqRQGOL._AC_SX355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 4,
+        "pk": 183,
         "fields": {
-            "aff_url": "https://amzn.to/3trFKLC",
-            "title": "Samsung Tab A7 Lite 8.7\" Gray 32GB (SM-T220NZAAXAR)",
-            "price": "159.00",
-            "oldprice": "159.00",
-            "image": "https://m.media-amazon.com/images/I/819hAP4xoGS._AC_SX355_.jpg"
+            "aff_url": "https://amzn.to/3KA7BAx",
+            "title": "Lenovo IdeaCentre AIO 3 AMD All-in-One Computer, 24\" FHD Display, Ryzen 5 5500U, 16GB RAM, 512GB SSD, DVD RW Drive, Windows 11",
+            "price": "699.99",
+            "oldprice": "749.99",
+            "image": "https://m.media-amazon.com/images/I/71guoY+nr7L._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 5,
+        "pk": 182,
         "fields": {
-            "aff_url": "https://amzn.to/35vKRCq",
-            "title": "CYBERPOWERPC Gamer Xtreme VR Gaming PC, Intel Core i5-11600KF 3.9GHz, 16GB DDR4, GeForce RTX 3060 12GB, 500GB NVMe SSD, 1TB HDD, WiFi Ready & Win 11 Home (GXiVR8480A10)",
-            "price": "1599.99",
-            "oldprice": "1599.99",
-            "image": "https://m.media-amazon.com/images/I/71FLsWWmE8L._AC_SY355_.jpg"
+            "aff_url": "https://amzn.to/3uxn26T",
+            "title": "ASUS ROG Strix Scar 15 (2022) Gaming Laptop, 15.6\u201d 300Hz IPS FHD Display, NVIDIA GeForce RTX 3070 Ti,Intel Core i9 12900H, 16GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11 Home, G533ZW-AS94",
+            "price": "200",
+            "oldprice": "2049.99",
+            "image": "https://m.media-amazon.com/images/I/71IA+MeLP2L._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 6,
+        "pk": 191,
         "fields": {
-            "aff_url": "https://amzn.to/35wjkAP",
-            "title": "HP 15-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)",
-            "price": "99",
-            "oldprice": "99",
-            "image": "https://m.media-amazon.com/images/I/71RD3vsjIYL._AC_SY355_.jpg"
+            "aff_url": "https://amzn.to/3Jxojz9",
+            "title": "Galaxy Tab S7 FE 2021 Android Tablet 12.4\u201d Screen WiFi 64GB S Pen Included Long-Lasting Battery Powerful Performance, Mystic Black",
+            "price": "458.96",
+            "oldprice": "529.99",
+            "image": "https://m.media-amazon.com/images/I/91pjZAMbEUS._AC_SX355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 7,
+        "pk": 179,
         "fields": {
-            "aff_url": "https://amzn.to/3sI0OhA",
-            "title": "Samsung Galaxy Tab A7 10.4 Wi-Fi 32GB Silver (SM-T500NZSAXAR)",
-            "price": "213.68",
+            "aff_url": "https://amzn.to/3jvVkRK",
+            "title": "HP ENVY Desktop Computer, Intel Core i7-10700, 16 GB RAM, 1 TB Hard Drive & 512 GB SSD Storage, Windows 10 Pro (TE01-1022, 2020 Model)",
+            "price": 200,
+            "oldprice": "1199.00",
+            "image": "https://m.media-amazon.com/images/I/71eG5pWqiPS._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 178,
+        "fields": {
+            "aff_url": "https://amzn.to/3JC0uGi",
+            "title": "GIGABYTE G5 KD - 15.6\" FHD 144Hz, Intel Core i5-11400H, NVIDIA GeForce RTX 3060 Laptop GPU 6GB GDDR6, 16GB Memory, 512GB SSD, Win11 Home, Gaming Laptop (G5 KD-52US123SO)",
+            "price": 200,
+            "oldprice": "949.00",
+            "image": "https://m.media-amazon.com/images/I/71dwPztbmGS._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "https://amzn.to/3jtcVtp",
+            "title": "Lenovo IdeaPad 1 Laptop, 14.0\" HD Display, Intel Celeron N4020, 4GB RAM, 64GB Storage, Intel UHD Graphics 600, Windows 11 in S Mode, Ice Blue",
+            "price": "244.99",
+            "oldprice": "299.99",
+            "image": "https://m.media-amazon.com/images/I/71hhgeQCrOL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 186,
+        "fields": {
+            "aff_url": "https://amzn.to/3v8ZLXX",
+            "title": "Samsung Chromebook 4 (2021 Model) 11.6\" Intel UHD Graphics 600, Intel Celeron Processor N4020, 4GB, 32GB, Wi-Fi - (XE310XBA-KA1US)",
+            "price": "174.95",
             "oldprice": "229.99",
-            "image": "https://m.media-amazon.com/images/I/71MvL2kCFCL._AC_SY450_.jpg"
+            "image": "https://m.media-amazon.com/images/I/41YAfpeqI8L._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 8,
+        "pk": 186,
         "fields": {
-            "aff_url": "https://amzn.to/3vE68UZ",
-            "title": "Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6\" Full HD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard",
-            "price": "1279.99",
-            "oldprice": "1279.99",
-            "image": "https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_SX425_.jpg"
+            "aff_url": "https://amzn.to/3jxYdl3",
+            "title": "Samsung Galaxy Tab A 8.0\" (2019, WiFi Only) 32GB, 5100mAh Battery, Dual Speaker, SM-T290, International Model (Black)",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/61Rjge5oR1L._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 9,
+        "pk": 184,
         "fields": {
-            "aff_url": "https://amzn.to/3trGFM4",
-            "title": "CYBERPOWERPC Gamer Xtreme VR Gaming PC, Intel Core i5-11400F 2.6GHz, 8GB DDR4, GeForce RTX 2060 6GB, 500GB NVMe SSD, WiFi Ready & Win 11 Home (GXiVR8060A11)",
-            "price": "964.99",
-            "oldprice": "1014.99",
-            "image": "https://m.media-amazon.com/images/I/81Wx7hw9vwL._AC_SX425_.jpg"
+            "aff_url": "https://amzn.to/37A8BpD",
+            "title": "(Renewed) 2020 Flagship HP 14 Chromebook Laptop Computer 14' HD SVA Anti-Glare Display Intel Celeron N5000 Processor 4GB DDR4 64GB eMMC WiFi Webcam Chrome OS",
+            "price": 200,
+            "oldprice": "172.99",
+            "image": "https://m.media-amazon.com/images/I/817Y3zdhTXL._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 10,
+        "pk": 424,
         "fields": {
-            "aff_url": "https://amzn.to/3hKrWpL",
-            "title": "HP Pavilion 15 Laptop, 11th Gen Intel Core i7-1165G7 Processor, 16 GB RAM, 512 GB SSD Storage, Full HD IPS Micro-Edge Display, Windows 11 Pro, Compact Design, Long Battery Life (15-eg0025nr, 2021)",
-            "price": "838.83",
-            "oldprice": "944.99",
-            "image": "https://m.media-amazon.com/images/I/711Nx6ZoRML._AC_SY450_.jpg"
+            "aff_url": "https://amzn.to/37HLidp",
+            "title": "Google Pixelbook Go - Lightweight Chromebook Laptop - Up to 12 Hours Battery Life[1] - Touch Screen Chromebook - Just Black",
+            "price": 200,
+            "oldprice": "849.00",
+            "image": "https://m.media-amazon.com/images/I/81sDDc7rKqL._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 11,
+        "pk": 192,
         "fields": {
-            "aff_url": "https://amzn.to/3hBTiP9",
-            "title": "Acer Aspire TC-1660-UA92 Desktop | 10th Gen Intel Core i5-10400 6-Core Processor | 12GB 2666MHz DDR4 | 512GB NVMe M.2 SSD | 8X DVD | Intel Wireless Wi-Fi 6 | Bluetooth 5.2 | Windows 10 Home",
-            "price": "549.00",
-            "oldprice": "619.99",
+            "aff_url": "https://amzn.to/3Jt6LE9",
+            "title": "Acer Chromebook Spin 311 Convertible Laptop, Intel Celeron N4020, 11.6\" HD Touch, 4GB LPDDR4, 32GB eMMC, Gigabit Wi-Fi 5, Bluetooth 5.0, Google Chrome, CP311-2H-C679",
+            "price": 200,
+            "oldprice": "285.00",
+            "image": "https://m.media-amazon.com/images/I/71c5W9NxN5L._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/38Kle22",
+            "title": "HP 15 Laptop, 11th Gen Intel Core i5-1135G7 Processor, 8 GB RAM, 256 GB SSD Storage, 15.6\u201d Full HD IPS Display, Windows 10 Home, HP Fast Charge, Lightweight Design (15-dy2021nr, 2020)",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81skV7BufjL._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 190,
+        "fields": {
+            "aff_url": "https://amzn.to/3LXf3pt",
+            "title": "SAMSUNG Galaxy Tab S7+ Plus 12.4-inch Android Tablet 128GB Wi-Fi Bluetooth S Pen fast-charging USB-C port, Mystic Black",
+            "price": "682.99",
+            "oldprice": "849.99",
+            "image": "https://m.media-amazon.com/images/I/71CKGX0iXPS._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 182,
+        "fields": {
+            "aff_url": "https://amzn.to/3JzL3yz",
+            "title": "HP Chromebook 11-inch Laptop - Up to 15 Hour Battery Life - MediaTek - MT8183 - 4 GB RAM - 32 GB eMMC Storage - 11.6-inch HD Display - with Chrome OS\u2122 - (11a-na0021nr, 2020 Model, Snow White)",
+            "price": 200,
+            "oldprice": "199.95",
+            "image": "https://m.media-amazon.com/images/I/716Daz3br+L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "https://amzn.to/3uydd8N",
+            "title": "SAMSUNG Galaxy Chromebook 4 11.6-inch 64GB eMMC, 4GB RAM, Gigabit Wi-Fi, Chrome OS, HD Intel Celeron Processor N4000",
+            "price": 200,
+            "oldprice": "234.84",
+            "image": "https://m.media-amazon.com/images/I/8172kS3Ec-L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3E2Z72c",
+            "title": "ASUS Laptop L210 11.6\u201d ultra thin, Intel Celeron N4020 Processor, 4GB RAM, 64GB eMMC storage, Windows 10 Home in S mode with One Year of Office 365 Personal, L210MA-DB01",
+            "price": 200,
+            "oldprice": "269.00",
+            "image": "https://m.media-amazon.com/images/I/810BY5U9baL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 180,
+        "fields": {
+            "aff_url": "https://amzn.to/3M16iL1",
+            "title": "HP 24-inch All-in-One Desktop Computer, AMD Athlon Silver 3050U Processor, 8 GB RAM, 256 GB SSD, Windows 10 Home (24-dd0010, White)",
+            "price": 200,
+            "oldprice": "635.00",
+            "image": "https://m.media-amazon.com/images/I/81gjltwz-qL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "",
+            "title": "ASUS Laptop L510 Ultra Thin Laptop, 15.6\u201d FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 128GB Storage, Windows 10 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-DS04",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/71ehzrGUO7L._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 184,
+        "fields": {
+            "aff_url": "https://amzn.to/3rgz8PW",
+            "title": "ASUS Laptop L210 11.6\u201d Ultra Thin, Intel Celeron N4020 Processor, 4GB RAM, 64GB eMMC Storage, Windows 10 Home in S Mode with One Year of Office 365 Personal, L210MA-DB02,Star Black",
+            "price": 200,
+            "oldprice": "247.14",
+            "image": "https://m.media-amazon.com/images/I/71Hy5SYr3tL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 194,
+        "fields": {
+            "aff_url": "https://amzn.to/3rji3EM",
+            "title": "ASUS VivoBook Flip 14 Thin and Light 2-in-1 Laptop, 14\u201d FHD Touch, 11th Gen Intel Core i3-1115G4, 4GB RAM, 128GB SSD, Thunderbolt 4, Fingerprint, Windows 10 Home in S Mode, Indie Black, TP470EA-AS34T",
+            "price": 200,
+            "oldprice": "462.00",
+            "image": "https://m.media-amazon.com/images/I/71eyqrWrDpS._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3E4vVrG",
+            "title": "Acer Aspire TC-1660-UA19 Desktop | 10th Gen Intel Core i5-10400 6-Core Processor | 12GB 2666MHz DDR4 | 512GB NVMe M.2 SSD | 8X DVD | Intel Wireless Wi-Fi 6 | Bluetooth 5.2 | Windows 11 Home",
+            "price": 200,
+            "oldprice": "596.50",
             "image": "https://m.media-amazon.com/images/I/616BXacLrRS._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 12,
+        "pk": 181,
         "fields": {
-            "aff_url": "https://amzn.to/3pzdx43",
-            "title": "HP 14 Laptop, AMD Ryzen 5 5500U, 8 GB RAM, 256 GB SSD Storage, 14-inch Full HD Display, Windows 11 Home, Thin & Portable, Micro-Edge & Anti-Glare Screen, Long Battery Life (14-fq1025nr, 2021)",
-            "price": "99",
-            "oldprice": "99",
-            "image": "https://m.media-amazon.com/images/I/71IOwQhjZNL._AC_SY355_.jpg"
+            "aff_url": "https://amzn.to/37BPQCe",
+            "title": "Samsung Galaxy Tab S8+ Android Tablet, 12.4\u201d Large AMOLED Screen, 128GB Storage, Wi-Fi 6E, Ultra Wide Camera, S Pen Included, Long Lasting Battery, Silver",
+            "price": 200,
+            "oldprice": "899.00",
+            "image": "https://m.media-amazon.com/images/I/81wWoHhfbjL._AC_SX355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 13,
+        "pk": 182,
         "fields": {
-            "aff_url": "https://amzn.to/3HH5Hf9",
-            "title": "Nokia T20 | Android 11 | 10.36-Inch Screen | Tablet | US Version | 4/64GB | 8MP Camera | Ocean Blue",
-            "price": "99",
-            "oldprice": "99",
-            "image": "https://m.media-amazon.com/images/I/71xJ7ehWVfL._AC_SX342_.jpg"
+            "aff_url": "https://amzn.to/3O20hzH",
+            "title": "ASUS ROG Strix Scar 15 (2022) Gaming Laptop, 15.6\u201d 240Hz IPS QHD Display, NVIDIA GeForce RTX 3080 Ti, Intel Core i9 12900H, 32GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11 Pro, G533ZX-XS96",
+            "price": 200,
+            "oldprice": "3399.00",
+            "image": "https://m.media-amazon.com/images/I/71IA+MeLP2L._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 14,
+        "pk": 183,
         "fields": {
-            "aff_url": "https://amzn.to/3HJQtpw",
-            "title": "MSI GL66 Gaming Laptop: 15.6\" 144Hz FHD 1080p Display, Intel Core i7-11800H, NVIDIA GeForce RTX 3070, 16GB, 512GB SSD, Win10, Black (11UGK-001)",
-            "price": "1259.00",
-            "oldprice": "1499.00",
-            "image": "https://m.media-amazon.com/images/I/61Ze2wc9nyS._AC_SX425_.jpg"
+            "aff_url": "https://amzn.to/3E53Noo",
+            "title": "ASUS Chromebox 4 with Intel\u00ae Celeron, 4GB RAM, 32GB eMMC storage, Power/DisplayPort Over Type C, Dual HDMI, Gigabit LAN, WiFi 6, USB 3.2, MicroSD Card Reader, VESA Mount, Chrome OS",
+            "price": 200,
+            "oldprice": "269.32",
+            "image": "https://m.media-amazon.com/images/I/71tXoNNLymL._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 15,
+        "pk": 169,
         "fields": {
-            "aff_url": "https://amzn.to/3pCcm48",
-            "title": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Angora Blue - SM-P610NZBAXAR - S Pen Included",
-            "price": "295.99",
-            "oldprice": "349.99",
-            "image": "https://m.media-amazon.com/images/I/415G0bg-hiL._AC_SY355_.jpg"
+            "aff_url": "https://amzn.to/37BPYlc",
+            "title": "Razer Blade 14 Gaming Laptop: AMD Ryzen 9 5900HX 8 Core, NVIDIA GeForce RTX 3080, 14\" QHD 165Hz, 16GB RAM, 1TB SSD - CNC Aluminum - Chroma RGB - THX Spatial Audio - Vapor Chamber Cooling",
+            "price": "2449.99",
+            "oldprice": "2799.99",
+            "image": "https://m.media-amazon.com/images/I/611VQf95rxL._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 16,
+        "pk": 191,
+        "fields": {
+            "aff_url": "https://amzn.to/3JFEafe",
+            "title": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6\" HD Display, MediaTek MT8173C, 4GB RAM, 64GB Storage, Chrome OS, Blizzard White",
+            "price": 200,
+            "oldprice": "294.47",
+            "image": "https://m.media-amazon.com/images/I/812MizmMvkL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 188,
+        "fields": {
+            "aff_url": "https://amzn.to/3KBEvRk",
+            "title": "ASUS ExpertCenter D500SC Small Form Factor Desktop PC, Intel Core i5-11400, 16GB DDR4 RAM, 256GB PCIe SSD + 1TB HDD, TPM, Windows 10 Home, Black, D500SC-AB504",
+            "price": 200,
+            "oldprice": "649.99",
+            "image": "https://m.media-amazon.com/images/I/81sAobIexYL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 189,
+        "fields": {
+            "aff_url": "https://amzn.to/3uzL7tX",
+            "title": "Lenovo Flex 5i 13 Chromebook 2-in-1 Laptop, Intel Core i3-1115G4, 8GB RAM, 64GB Storage, Intel UHD Graphics, 13.3\" FHD Touchscreen Display, Chrome OS, Abyss Blue",
+            "price": "429.99",
+            "oldprice": "450.97",
+            "image": "https://m.media-amazon.com/images/I/81hcVjZfGtS._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 189,
+        "fields": {
+            "aff_url": "https://amzn.to/3uvJXzy",
+            "title": "SAMSUNG 15.6\u201d Galaxy Book2 Pro Laptop Computer, i7 / 16GB / 512GB, 12th Gen Intel Core Processor, Evo Certified, Lightweight, 2022 Model, Graphite",
+            "price": 200,
+            "oldprice": "1399.99",
+            "image": "https://m.media-amazon.com/images/I/61M-QNJf4pL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 188,
+        "fields": {
+            "aff_url": "https://amzn.to/3rn3aRV",
+            "title": "Lenovo 11.6inch Chromebook, Intel Celeron N4020 Dual-Core Processor, 4GB RAM, 32GB eMMC SSD, WiFi, Bluetooth, Chrome OS(Renewed)",
+            "price": "98.99",
+            "oldprice": "106.00",
+            "image": "https://m.media-amazon.com/images/I/61w2tGRKetL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 186,
+        "fields": {
+            "aff_url": "https://amzn.to/3JC2pdY",
+            "title": "Lenovo Flex 5 14 2-in-1 Laptop, 14.0\" FHD Touch Display, AMD Ryzen 5 4500U, 16GB RAM, 256GB Storage, AMD Radeon Graphics, Digital Pen Included, Win 10",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81AbJXWCxXL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 190,
+        "fields": {
+            "aff_url": "https://amzn.to/3xg7vKy",
+            "title": "Lenovo Chromebook Flex 5 13\" Laptop, FHD Touch Display, Intel Core i3-10110U, 4GB RAM, 64GB Storage, Chrome OS",
+            "price": 200,
+            "oldprice": "402.00",
+            "image": "https://m.media-amazon.com/images/I/61qIQqN3blS._AC_SX425_.jpg"
+        }
+    },
+
+    {
+        "model": "souq.Product",
+        "pk": 189,
+        "fields": {
+            "aff_url": "https://amzn.to/367MK8I",
+            "title": "Lenovo Chromebook Flex 3 11\" Laptop, 11.6-Inch HD IPS Display, MediaTek MT8173C, 4GB RAM, 64GB Storage, Chrome OS, Blizzard White",
+            "price": 200,
+            "oldprice": "318.99",
+            "image": "https://m.media-amazon.com/images/I/611DJR7V1sL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 184,
+        "fields": {
+            "aff_url": "https://amzn.to/3EjA4s9",
+            "title": "Acer Nitro 5 AN515-45-R92M Gaming Laptop, AMD Ryzen 7 5800H (8-Core) | NVIDIA GeForce RTX 3060 Laptop GPU |15.6\" FHD 144Hz IPS Display | 16GB DDR4 | 512GB NVMe SSD | WiFi 6 | RGB Backlit Keyboard",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81m-j0iRmtL._AC_SX569_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 189,
+        "fields": {
+            "aff_url": "https://amzn.to/3E2DTSa",
+            "title": "SAMSUNG Galaxy Tab A 8.0-inch Android Tablet 64GB Wi-Fi Lightweight Large Screen Feel Camera Long-Lasting Battery, Black",
+            "price": "187.63",
+            "oldprice": "199.99",
+            "image": "https://m.media-amazon.com/images/I/71HX44IWA7L._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 184,
+        "fields": {
+            "aff_url": "https://amzn.to/37DelPq",
+            "title": "HP 14-inch Chromebook HD Touchscreen Laptop PC (Intel Celeron N3350 up to 2.4GHz, 4GB RAM, 32GB Flash Memory, WiFi, HD Camera, Bluetooth, Up to 10 hrs Battery Life, Chrome OS , Black)",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/51mf7YyNggS._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 174,
+        "fields": {
+            "aff_url": "https://amzn.to/3E4x56w",
+            "title": "Dell Inspiron 3583 15\u201d Laptop Intel Celeron \u2013 128GB SSD \u2013 4GB DDR4 \u2013 1.6GHz - Intel UHD Graphics 610 - Windows 10 Home - Inspiron 15 3000 Series - New",
+            "price": 200,
+            "oldprice": "346.00",
+            "image": "https://m.media-amazon.com/images/I/7150w5ZxZ9L._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 189,
+        "fields": {
+            "aff_url": "https://amzn.to/3JuFT6N",
+            "title": "ASUS ZenBook Pro Duo 15 OLED UX582 Laptop, 15.6\u201d OLED 4K UHD Touch Display, Intel Core i7-10870H, 16GB RAM, 1TB SSD, GeForce RTX 3070, ScreenPad Plus, Windows 10 Pro, Celestial Blue, UX582LR-XS74T",
+            "price": 200,
+            "oldprice": "2369.99",
+            "image": "https://m.media-amazon.com/images/I/81Eub+aql9S._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 184,
+        "fields": {
+            "aff_url": "https://amzn.to/3jsMFzB",
+            "title": "HP 27 Pavilion All-in-One PC, 10th Gen Intel i7-10700T Processor, 16 GB RAM, Dual Storage 512 GB SSD and 1TB HDD, Full HD IPS 27 Inch Touchscreen, Windows 10 Home, Keyboard and Mouse (27-d0072, 2020)",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/91omRbBxtHS._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 184,
+        "fields": {
+            "aff_url": "https://amzn.to/3JDGlzz",
+            "title": "2021 Newest Dell Inspiron 15 3000 3501 Laptop, 15.6\" Full HD 1080P Screen, 11th Gen Intel Core i5-1135G7 Quad-Core Processor, 16GB RAM, 256GB SSD + 1TB HDD, Webcam, HDMI, Wi-Fi, Windows 10 Home, Black",
+            "price": 200,
+            "oldprice": "679.99",
+            "image": "https://m.media-amazon.com/images/I/61mFsTOtVVL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3xmawZH",
+            "title": "ASUS TUF Gaming F15 Gaming Laptop, 15.6\u201d 144Hz FHD IPS-Type Display, Intel Core i5-10300H Processor, GeForce GTX 1650, 8GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX506LH-AS51",
+            "price": 200,
+            "oldprice": "769.99",
+            "image": "https://m.media-amazon.com/images/I/919jAiHgVfL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 180,
+        "fields": {
+            "aff_url": "https://amzn.to/3O3rAd0",
+            "title": "HP Stream 14inch HD(1366x768) Display, Intel Celeron N4000 Dual-Core Processor, 4GB RAM, 32GB eMMC, HDMI, WiFi, Webcam, Bluetooth, Win10 S, Rose Pink (Renewed)",
+            "price": 200,
+            "oldprice": "200.00",
+            "image": "https://m.media-amazon.com/images/I/71SR3JaVu9L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 188,
+        "fields": {
+            "aff_url": "https://amzn.to/3O6QjgD",
+            "title": "ASUS VivoBook 15 Thin and Light Laptop, 15.6\u201d FHD Display, Intel i3-1005G1 CPU, 8GB RAM, 128GB SSD, Backlit Keyboard, Fingerprint, Windows 10 Home in S Mode, Slate Gray, F512JA-AS34",
+            "price": 200,
+            "oldprice": "431.00",
+            "image": "https://m.media-amazon.com/images/I/81fstJkUlaL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 192,
+        "fields": {
+            "aff_url": "https://amzn.to/3jsN1Gr",
+            "title": "Samsung Galaxy Book Pro Windows 11 Intel Evo Platform Laptop Computer 15.6\" AMOLED Screen 11th Gen Intel Core i7 Processor 16GB Memory 512GB SSD Long-Lasting Battery, Mystic Blue",
+            "price": "1159.00",
+            "oldprice": "1299.99",
+            "image": "https://m.media-amazon.com/images/I/81OivyiwCjL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "https://amzn.to/3Kz8Wr7",
+            "title": "(Renewed) Samsung Chromebook 4 Chrome OS 11.6' HD Intel Celeron Processor N4000 4GB RAM 32GB eMMC Gigabit Wi-Fi - XE310XBA-K01US",
+            "price": 200,
+            "oldprice": "99.99",
+            "image": "https://m.media-amazon.com/images/I/61X3g56kwfL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "https://amzn.to/3KCzyYj",
+            "title": "2022 Samsung 14\u201d FHD(1920 x 1080) Laptop, Windows 11 OS, Qualcomm Octa Core Snapdragon Processor 2.55GHz, 4GB LPDDR4x, 64GB SSD (Renewed)",
+            "price": 200,
+            "oldprice": "216.99",
+            "image": "https://m.media-amazon.com/images/I/51Afm88Bq0L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 186,
+        "fields": {
+            "aff_url": "https://amzn.to/367dRAO",
+            "title": "Microsoft Surface Pro 7 MS7 12.3\u201d (2736x1824) 10-Point Touch Display Tablet PC W/Surface Type Cover & Surface Pen, Intel 10th Gen Core i3, 4GB RAM, 128GB SSD, Windows 10, Platinum (Latest Model)",
+            "price": 200,
+            "oldprice": "760.00",
+            "image": "https://m.media-amazon.com/images/I/51WiEqRonVL._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 189,
+        "fields": {
+            "aff_url": "https://amzn.to/37JqfHH",
+            "title": "HP 15 Laptop, AMD Ryzen 3 3250U Processor, 8 GB RAM, 256 GB SSD Storage, 15.6-inch HD Micro-Edge Display, Windows 10 Home, Long-Lasting Battery, HP Fast Charge, 720p Webcam (15-ef2024nr)",
+            "price": 200,
+            "oldprice": "439.00",
+            "image": "https://m.media-amazon.com/images/I/81vZsNmHMwL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 178,
+        "fields": {
+            "aff_url": "https://amzn.to/363sDsa",
+            "title": "Razer Blade 15 Gaming Laptop: NVIDIA GeForce RTX 3080 Ti - 12th Gen Intel 14-Core i9 CPU - 15.6\u201d 4K UHD 144Hz - 32GB DDR5 RAM, 1TB PCIe SSD - Windows 11 - CNC Aluminum - Chroma RGB - Thunderbolt 4",
+            "price": 200,
+            "oldprice": "3999.99",
+            "image": "https://m.media-amazon.com/images/I/61hInchZqjL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 181,
+        "fields": {
+            "aff_url": "https://amzn.to/3uwtwCR",
+            "title": "Dell ChromeBook 11 -Intel Celeron 2955U, 4GB Ram, 16GB SSD, WebCam, HDMI, (11.6 HD Screen 1366x768) (Renewed)",
+            "price": "68.00",
+            "oldprice": "76.00",
+            "image": "https://m.media-amazon.com/images/I/510pXLn06UL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 186,
+        "fields": {
+            "aff_url": "https://amzn.to/3jx6J3y",
+            "title": "ASUS VivoBook 15 M515 Thin and Light Laptop, 15.6\u201d IPS FHD Display, Windows 10 Home with Free Upgrade to Windows 11, AMD Ryzen 7 5700U, 8GB RAM, 512GB SSD, Fingerprint Reader, Slate Grey, M515UA-EB72",
+            "price": 200,
+            "oldprice": "629.99",
+            "image": "https://m.media-amazon.com/images/I/71bzKR1IZkL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 181,
+        "fields": {
+            "aff_url": "https://amzn.to/3Jyyljm",
+            "title": "Dell Chromebook 11 - 3180 Intel Celeron N3060 X2 1.6GHz 4GB 16GB, Black (Renewed)",
+            "price": 200,
+            "oldprice": "69.00",
+            "image": "https://m.media-amazon.com/images/I/61daGkuCdzL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 424,
+        "fields": {
+            "aff_url": "https://amzn.to/3uwd4m7",
+            "title": "Google Pixelbook Go - Lightweight Chromebook Laptop - Up to 12 Hours Battery Life[1] - Touch Screen Chromebook - Just Black",
+            "price": 200,
+            "oldprice": "849.00",
+            "image": "https://m.media-amazon.com/images/I/81sDDc7rKqL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 195,
+        "fields": {
+            "aff_url": "https://amzn.to/3uwdwkj",
+            "title": "2022 Acer Convertible 2-in-1 Chromebook-11.6\" IPS Touchscreen, ARM Cortex 6 Core Processor, 4GB DDR4 Memory, 32GB eMMC SSD, Webcam, Chrome OS (Renewed)",
+            "price": 200,
+            "oldprice": "159.99",
+            "image": "https://m.media-amazon.com/images/I/51NgvCvskFL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3Jsm3sU",
+            "title": "Acer Aspire C27-1655-UA91 AIO Desktop | 27\" Full HD IPS Display | 11th Gen Intel Core i5-1135G7 | Intel Iris Xe Graphics | 12GB DDR4 | 512GB NVMe M.2 SSD | Intel Wireless Wi-Fi 6 | Windows 10 Home",
+            "price": 200,
+            "oldprice": "898.00",
+            "image": "https://m.media-amazon.com/images/I/71blhefCfXL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 173,
+        "fields": {
+            "aff_url": "https://amzn.to/3juCdHH",
+            "title": "ASUS VivoBook Pro 16X OLED Slim Laptop, 16\u201d WQUXGA 16:10 Display, AMD Ryzen 9 5900HX CPU, NVIDIA GeForce RTX 3050 Ti, 32GB RAM, 1TB SSD, Windows 11 Pro, 0\u00b0Black, M7600QE-XB99",
+            "price": 200,
+            "oldprice": "1649.99",
+            "image": "https://m.media-amazon.com/images/I/81oM0Q9HLRL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3JsymFL",
+            "title": "HP Chromebook 14 Laptop, Intel Celeron N4020, 4 GB RAM, 32 GB eMMC, 14\u201d HD Micro-Edge Display, Chrome OS, Thin & Portable, 4K Graphics, Backlit Ash Gray Keyboard (14a-na0024nr, 2021, Mineral Silver)",
+            "price": 200,
+            "oldprice": "268.80",
+            "image": "https://m.media-amazon.com/images/I/81IDIvfiJ4L._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 176,
+        "fields": {
+            "aff_url": "https://amzn.to/3E7B9mp",
+            "title": "Dell OptiPlex 3000 3080 Desktop Computer - Intel Core i5 10th Gen i5-10505 Hexa-core (6 Core) 3.20 GHz - 8 GB RAM DDR4 SDRAM - 256 GB NVMe M.2 PCI Express M.2 SSD - Small Form Factor - Black",
+            "price": 200,
+            "oldprice": "748.99",
+            "image": "https://m.media-amazon.com/images/I/61y0UKNkt9L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 182,
+        "fields": {
+            "aff_url": "https://amzn.to/3juCoTn",
+            "title": "Lenovo IdeaPad 3 Intel i5-1035G1 Quad Core 12GB RAM 256GB SSD 15.6-inch Touch Screen Laptop",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/61DrCbSkM4L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 176,
+        "fields": {
+            "aff_url": "https://amzn.to/3LZuOfS",
+            "title": "MSI GE66 Raider 15.6\" UHD 4K Anti-Glare Thin Bezel Display, Intel Core i9-11980HK, NVIDIA GeForce RTX3080, 32GB, 2TB NVMe SSD, Win10, Titanium Blue (11UH-227)",
+            "price": "2899.00",
+            "oldprice": "3499.00",
+            "image": "https://m.media-amazon.com/images/I/71BS0P9Lw5L._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 176,
+        "fields": {
+            "aff_url": "https://amzn.to/3jv1uS1",
+            "title": "Dell OptiPlex 3000 3080 Desktop Computer - Intel Core i5 10th Gen i5-10500T Hexa-core (6 Core) 2.30 GHz - 8 GB RAM DDR4 SDRAM - 256 GB NVMe M.2 PCI Express M.2 SSD - Micro PC - Black",
+            "price": 200,
+            "oldprice": "713.99",
+            "image": "https://m.media-amazon.com/images/I/6151iBevxAL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3juCmed",
+            "title": "HP Pavilion x360 14\u201d Touchscreen Laptop, 11th Gen Intel Core i5-1135G7, 8 GB RAM, 256 GB SSD Storage, Full HD IPS Display, Windows 10 Home OS, Long Battery Life, Work & Streaming (14-dw1024nr, 2021)",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81HbaBmmvNS._AC_SY450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 177,
+        "fields": {
+            "aff_url": "https://amzn.to/3O5tABj",
+            "title": "Acer Chromebook Spin 713: Intel Core i3-10110U, 4GB DDR4, 64GB eMMC, 13.5\" 2K VertiView Touchscreen, Backlit Keyboard, Google Chrome OS",
+            "price": 200,
+            "oldprice": "389.00",
+            "image": "https://m.media-amazon.com/images/I/61LWrzXaIeS._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 179,
+        "fields": {
+            "aff_url": "https://amzn.to/37HQ0b5",
+            "title": "SkyTech Shadow Gaming Computer PC Desktop - Ryzen 5 3600 6-Core 3.6GHz, 1660 Super 6G, 1TB SSD, 16GB DDR4 3000, RGB Fans, AC WiFi, Windows 10 Home 64-bit, Black",
+            "price": 200,
+            "oldprice": "1199.99",
+            "image": "https://m.media-amazon.com/images/I/91HyPTK5dVS._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3LXTLbr",
+            "title": "Lenovo IdeaPad Duet 5 Chromebook, OLED 13.3\" FHD Touch Display, Snapdragon SC7180, 4GB RAM, 64GB Storage, Qualcomm Adreno Graphics, Chrome OS, Abyss Blue",
+            "price": "379.99",
+            "oldprice": "429.99",
+            "image": "https://m.media-amazon.com/images/I/61mIka7zQGL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 181,
+        "fields": {
+            "aff_url": "https://amzn.to/3E4zWwg",
+            "title": "2020 ASUS VivoBook 15 15.6 Inch FHD 1080P Laptop (AMD Ryzen 3 3200U up to 3.5GHz, 16GB DDR4 RAM, 256GB SSD, AMD Radeon Vega 3, Backlit Keyboard, FP Reader, WiFi, Bluetooth, HDMI, Windows 10) (Grey)",
+            "price": 200,
+            "oldprice": "502.00",
+            "image": "https://m.media-amazon.com/images/I/61QKVGDlNVL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 184,
+        "fields": {
+            "aff_url": "https://amzn.to/3KCf1Df",
+            "title": "ASUS ROG Strix G15 (2021) Gaming Laptop, 15.6\u201d 300Hz IPS Type FHD Display, NVIDIA GeForce RTX 3070, AMD Ryzen R9-5900HX, 16GB DDR4, 1TB PCIe NVMe SSD, RGB Keyboard, Windows 10, G513QR-ES96",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81Cm1VMdxrL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 179,
+        "fields": {
+            "aff_url": "https://amzn.to/3jxmA26",
+            "title": "ASUS - ROG Zephyrus 15.6\" QHD Gaming Laptop - AMD Ryzen 9 - 16GB Memory - NVIDIA GeForce RTX 3070 - 1TB SSD - Eclipse Grey - Eclipse Grey",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81MI8-eZQOL._AC_SX450_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 190,
+        "fields": {
+            "aff_url": "https://amzn.to/3xpUduX",
+            "title": "ASUS Chromebook C223 11.6\" HD Chromebook Laptop, Intel Dual-Core Celeron N3350 Processor (up to 2.4GHz), 4GB RAM, 32GB eMMC Storage, Premium Design, Grey, C223NA-DH02",
+            "price": "154.00",
+            "oldprice": "249.99",
+            "image": "https://m.media-amazon.com/images/I/91IYW5dBwPL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 188,
         "fields": {
             "aff_url": "",
-            "title": "Lenovo Legion 5 Gaming Laptop, 15.6\" FHD Display, AMD Ryzen 7 5800H, 16GB RAM, 512GB Storage, NVIDIA GeForce RTX 3050Ti, Windows 11 Home, Phantom Blue",
-            "price": "1029.99",
-            "oldprice": "1139.99",
-            "image": "https://m.media-amazon.com/images/I/81PbOX7ZtaL._AC_SY355_.jpg"
+            "title": "Newest Flagship HP Chromebook, 11.6\" HD (1366 x 768) Display, Intel Celeron Processor N3350, 4GB LPDDR2, 32GB eMMC, Chrome OS, HD Graphics 500, 11A-NB0013DX, Ash Gray",
+            "price": 200,
+            "oldprice": "138.00",
+            "image": "https://m.media-amazon.com/images/I/71SZpMT7k3L._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 17,
+        "pk": 193,
         "fields": {
-            "aff_url": "https://amzn.to/3KySnLR",
-            "title": "Lenovo Tab M8 Tablet, HD Android Tablet, Quad-Core Processor, 2GHz, 32GB Storage, Full Metal Cover, Long Battery Life, Android 9 Pie, Slate Black",
-            "price": "96.99",
-            "oldprice": "96.99",
-            "image": "https://m.media-amazon.com/images/I/61Kl83tu0TL._AC_SY355_.jpg"
+            "aff_url": "https://amzn.to/37Ilw8Q",
+            "title": "Samsung Galaxy Chromebook 2 XE530QDA-KA1US 13.3\" Touchscreen 2 in 1 Chromebook - Full HD - 1920 x 1080 - Intel Core i3 (10th Gen) i3-10110U 2.10 GHz - 8 GB RAM - Fiesta Red",
+            "price": 200,
+            "oldprice": "689.01",
+            "image": "https://m.media-amazon.com/images/I/41UnRGZA6ES._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 18,
+        "pk": 182,
         "fields": {
-            "aff_url": "https://amzn.to/3vAr0wx",
-            "title": "Samsung Electronics Galaxy Tab A8 Android Tablet, 10.5\u201d LCD Screen, 32GB Storage, Long-Lasting Battery, Samsung Electronics Kids Content, Smart Switch, Expandable Memory, Dark Gray",
-            "price": "229",
-            "oldprice": "229.97",
-            "image": "https://m.media-amazon.com/images/I/61krikJxTmL._AC_SX355_.jpg"
+            "aff_url": "",
+            "title": "Dell Chromebook 11 CB1C13 11.6inch Laptop Intel Celeron 2955U 1.40GHz 2GB 16GB SSD (Renewed)",
+            "price": "69.00",
+            "oldprice": "74.00",
+            "image": "https://m.media-amazon.com/images/I/51JEJBPrLML._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 19,
+        "pk": 174,
         "fields": {
-            "aff_url": "https://amzn.to/3HMnoKe",
-            "title": "HP Stream 14 inches HD(1366x768) Display, Intel Celeron N4000 Dual-Core Processor, 4GB RAM, 64GB eMMC, HDMI, WiFi, Webcam, Bluetooth, Win10 S, Royal Blue(Renewed)",
-            "price": "224",
-            "oldprice": "224.99",
-            "image": "https://m.media-amazon.com/images/I/71sOrI1hB9L._AC_SX425_.jpg"
+            "aff_url": "https://amzn.to/3jqLznX",
+            "title": "Skytech Blaze II Gaming PC Desktop \u2013 Intel Core i3 10105F 3.7 GHz, GTX 1650, 500GB SSD, 16G DDR4 3200, 600W Gold PSU, AC Wi-Fi, Windows 10 Home 64-bit",
+            "price": "840.63",
+            "oldprice": "899.99",
+            "image": "https://m.media-amazon.com/images/I/81KvSAjWnTL._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 20,
+        "pk": 181,
         "fields": {
-            "aff_url": "https://amzn.to/3vEPDYM",
-            "title": "MSI Stealth 15M Gaming Laptop: 15.6\" 144Hz FHD 1080p Display, Intel Core i7-11375H, NVIDIA GeForce RTX 3060, 16GB, 512GB SSD, Thunderbolt 4, WiFi 6, Win10, Carbon Gray (A11UEK-009)",
-            "price": "1189.00",
-            "oldprice": "1399.00",
-            "image": "https://m.media-amazon.com/images/I/71p3Ygm14wL._AC_SY355_.jpg"
+            "aff_url": "https://amzn.to/3Ky9IEX",
+            "title": "Lenovo - Tab P11 Plus - 11\" Display - Long Lasting Battery - 4GB Memory + 128GB Storage",
+            "price": 200,
+            "oldprice": "279.99",
+            "image": "https://m.media-amazon.com/images/I/617Q3DbKyPL._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 21,
+        "pk": 188,
         "fields": {
-            "aff_url": "https://amzn.to/3ILdREr",
-            "title": "ASUS TUF Dash 15 (2021) Ultra Slim Gaming Laptop, 15.6\u201d 144Hz FHD, GeForce RTX 3050 Ti, Intel Core i7-11370H, 8GB DDR4, 512GB PCIe NVMe SSD, Wi-Fi 6, Windows 10, Eclipse Grey Color, TUF516PE-AB73",
-            "price": "949",
-            "oldprice": "949.99",
-            "image": "https://m.media-amazon.com/images/I/81Tx3MJBkSL._AC_SX425_.jpg"
+            "aff_url": "https://amzn.to/3LVBknJ",
+            "title": "Lenovo Tab M10 Plus - FHD Android Tablet - Octa Core Processor - 64GB Storage",
+            "price": "169.99",
+            "oldprice": "199.99",
+            "image": "https://m.media-amazon.com/images/I/71sfODG+c+L._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 22,
+        "pk": 426,
         "fields": {
-            "aff_url": "https://amzn.to/3HN6xXz",
-            "title": "ASUS Laptop L210 11.6\u201d Ultra Thin, Intel Celeron N4020 Processor, 4GB RAM, 64GB eMMC Storage, Windows 10 Home in S Mode with One Year of Office 365 Personal, L210MA-DB02",
-            "price": "219.99",
-            "oldprice": "249.99",
-            "image": "https://m.media-amazon.com/images/I/71Hy5SYr3tL._AC_SX425_.jpg"
+            "aff_url": "https://amzn.to/3LV6OKL",
+            "title": "Google Pixelbook Go - Lightweight Chromebook Laptop - Up to 12 Hours Battery Life[1] - Touch Screen Chromebook - Just Black",
+            "price": 200,
+            "oldprice": "849.00",
+            "image": "https://m.media-amazon.com/images/I/81sDDc7rKqL._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 23,
+        "pk": 174,
         "fields": {
-            "aff_url": "https://amzn.to/35OAJEK",
-            "title": "HP Chromebook 11-inch Laptop - MediaTek - MT8183 - 4 GB RAM - 32 GB eMMC Storage - 11.6-inch HD Display - with Chrome OS\u2122 - (11a-na0010nr, 2020 Model)",
-            "price": "199",
-            "oldprice": "200",
-            "image": "https://m.media-amazon.com/images/I/81EY2GIfktL._AC_SY450_.jpg"
+            "aff_url": "https://amzn.to/3jqNDMG",
+            "title": "HP 15-dw Laptop Intel Core i3-1115G4 8GB 256GB SSD 15.6 Full HD WLED Win 10",
+            "price": 200,
+            "oldprice": "418.88",
+            "image": "https://m.media-amazon.com/images/I/81qohiv33aL._AC_SX425_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 24,
+        "pk": 187,
         "fields": {
-            "aff_url": "https://amzn.to/35P1AQM",
-            "title": "(Renewed) 2017 Apple MacBook Air with 1.8GHz Intel Core i5 (13-inch, 8GB RAM, 128GB SSD Storage)",
-            "price": "362.00",
-            "oldprice": "399.00",
-            "image": "https://m.media-amazon.com/images/I/91wYB53Y4aL._AC_SX425_.jpg"
+            "aff_url": "https://amzn.to/37Af97H",
+            "title": "Samsung Galaxy Tab Active PRO 10.1\" | 64GB & WiFi Water-Resistant Rugged Tablet, Black \u2013 SM-T540NZKAXAR",
+            "price": "569.99",
+            "oldprice": "749.99",
+            "image": "https://m.media-amazon.com/images/I/71XFm0upzQL._AC_SY355_.jpg"
         }
     },
     {
         "model": "souq.Product",
-        "pk": 25,
+        "pk": 204,
         "fields": {
-            "aff_url": "https://amzn.to/3MqjOcr",
-            "title": "Lenovo IdeaPad 3 Laptop, 14.0\" FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 256GB Storage, AMD Radeon 7 Graphics, Windows 11 Home, Abyss Blue",
-            "price": "499.99",
-            "oldprice": "533.06",
-            "image": "https://m.media-amazon.com/images/I/71hhgeQCrOL._AC_SY355_.jpg"
+            "aff_url": "https://amzn.to/3xm43xN",
+            "title": "Thermaltake Glacier 360 Liquid-Cooled PC (AMD Ryzen 5 5600X, RTX 3060, 16GB RGB 3600Mhz DDR4 ToughRAM RGB Memory, 1TB NVMe M.2, WiFi, Win 10 Home) Gaming Desktop Computer S3WT-B550-G36-LCS",
+            "price": 200,
+            "oldprice": "1699.99",
+            "image": "https://m.media-amazon.com/images/I/71ayGFDyV4L._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 191,
+        "fields": {
+            "aff_url": "https://amzn.to/3E85MZi",
+            "title": "Laptop HP X360 14a Chromebook 14\" HD Touchscreen, Entertaining from Any Angle Intel Celeron, 4GB DDR4 64GB eMMC WiFi Webcam Stereo Speakers Bluetooth 4.2 Chrome Blue Metallic Color",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81aTNRe9WcL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 188,
+        "fields": {
+            "aff_url": "https://amzn.to/3uyj6CV",
+            "title": "Lenovo Chromebook S330 14in Laptop Computer, Mediatek MT8173C up to 1.7 Ghz, 4GB RAM, 32GB eMMC SSD, Bluetooth, HDMI, USB-C, SD Card Reader, Chrome OS, Black (Renewed)",
+            "price": 200,
+            "oldprice": "169.99",
+            "image": "https://m.media-amazon.com/images/I/61BvlCvbRJL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 173,
+        "fields": {
+            "aff_url": "https://amzn.to/3KGTkSM",
+            "title": "Razer Blade 15 Base Gaming Laptop 2020: Intel Core i7-10750H 6-Core, NVIDIA GeForce GTX 1660 Ti, 15.6\" FHD 1080p 120Hz, 16GB RAM, 256GB SSD, CNC Aluminum, Chroma RGB Lighting, Black,Windows 10 Home",
+            "price": 200,
+            "oldprice": "1439.36",
+            "image": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 197,
+        "fields": {
+            "aff_url": "https://amzn.to/3LX0tOP",
+            "title": "Acer Spin 5 Convertible Laptop, 13.5\" 2K 2256 x 1504 IPS Touch, 10th Gen Intel Core i7-1065G7, 16GB LPDDR4X, 512GB NVMe SSD, Wi-Fi 6, Backlit KB, FPR, Rechargeable Active Stylus, SP513-54N-74V2",
+            "price": "886.00",
+            "oldprice": "1099.99",
+            "image": "https://m.media-amazon.com/images/I/61LHj2XV1wL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "https://amzn.to/3E2Gsnm",
+            "title": "ASUS ROG Strix G15 (2021) Gaming Laptop, 15.6\u201d 300Hz IPS Type FHD Display, NVIDIA GeForce RTX 3050 Ti, AMD Ryzen R7-5800H, 16GB DDR4, 1TB PCIe SSD, RGB Keyboard, Windows 10, Black, G513QE-ES76",
+            "price": 200,
+            "oldprice": "1489.00",
+            "image": "https://m.media-amazon.com/images/I/71n0k0TSRwS._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 190,
+        "fields": {
+            "aff_url": "https://amzn.to/3JA9X10",
+            "title": "2022 Acer Chromebook 315 15.6\" Full HD 1080p IPS Touchscreen Laptop PC, Intel Celeron N4020 Dual-Core Processor, 4GB DDR4 RAM, 64GB eMMC, Webcam, WiFi, 12 Hrs Battery Life, Chrome OS, Silver",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/81f+Mn-JwnL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 186,
+        "fields": {
+            "aff_url": "https://amzn.to/3jzDoW8",
+            "title": "Lenovo Legion 5 Gaming Laptop, 15.6\" FHD Display, AMD Ryzen 7 5800H, 16GB RAM, 512GB Storage, NVIDIA GeForce RTX 3050Ti, Windows 10H, Phantom Blue",
+            "price": 200,
+            "oldprice": "1345.00",
+            "image": "https://m.media-amazon.com/images/I/71fzx0pGY5L._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 191,
+        "fields": {
+            "aff_url": "https://amzn.to/3uA2cnA",
+            "title": "Acer Aspire 5 A515-56-50RS, 15.6\" Full HD IPS Display, 11th Gen Intel Core i5-1135G7, Intel Iris Xe Graphics, 8GB DDR4, 256GB NVMe SSD, WiFi 6, Fingerprint Reader, Backlit Keyboard",
+            "price": 200,
+            "oldprice": "629.99",
+            "image": "https://m.media-amazon.com/images/I/71FZX5wl5GL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 181,
+        "fields": {
+            "aff_url": "https://amzn.to/3xj8iuf",
+            "title": "Microsoft Surface Pro LTE (Intel Core i5, 8GB RAM, 256GB) Newest Version",
+            "price": 200,
+            "oldprice": "1412.33",
+            "image": "https://m.media-amazon.com/images/I/61RI4MoDGkL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 187,
+        "fields": {
+            "aff_url": "https://amzn.to/3LXVAoN",
+            "title": "ROG Strix G10 Gaming Desktop PC, Intel Core i7-11700, GeForce RTX 3060, 16GB DDR4 RAM, 1TB PCIe SSD, Wi-Fi 5, Windows 11 Home, G10CE-AH766",
+            "price": 200,
+            "oldprice": "1448.99",
+            "image": "https://m.media-amazon.com/images/I/71INLhUaXsL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 193,
+        "fields": {
+            "aff_url": "https://amzn.to/3KyfDd2",
+            "title": "ASUS ZenBook Duo 14 UX482 14\u201d FHD NanoEdge Touch Display, Core i7-1195G7, GeForce MX450, 32GB RAM, 1TB SSD, Innovative ScreenPad Plus, Windows 11 Pro, WiFi 6E, Celestial Blue, UX482EGR-XB77T",
+            "price": 200,
+            "oldprice": "1691.99",
+            "image": "https://m.media-amazon.com/images/I/81MfMZUposL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 182,
+        "fields": {
+            "aff_url": "https://amzn.to/363C0YP",
+            "title": "Google Pixelbook Go - Lightweight Chromebook Laptop - Up to 12 Hours Battery Life[1] - Touch Screen Chromebook - Just Black",
+            "price": 200,
+            "oldprice": "849.00",
+            "image": "https://m.media-amazon.com/images/I/81sDDc7rKqL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "https://amzn.to/3JC7Olg",
+            "title": "HP 2020 Newest Pavilion X360 2-in-1 Convertible 14\" HD Touch-Screen Laptop, 10th Gen Intel Core i3-1005G1, 8GB Ram, 128GB Ssd, Wifi, Webcam, Win 10 S",
+            "price": "501.99",
+            "oldprice": "699.00",
+            "image": "https://m.media-amazon.com/images/I/71V4812suvL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 426,
+        "fields": {
+            "aff_url": "https://amzn.to/3veGapt",
+            "title": "Google Pixelbook Go - Lightweight Chromebook Laptop - Up to 12 Hours Battery Life[1] - Touch Screen Chromebook - Just Black",
+            "price": 200,
+            "oldprice": "849.00",
+            "image": "https://m.media-amazon.com/images/I/81sDDc7rKqL._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 191,
+        "fields": {
+            "aff_url": "",
+            "title": "Lenovo IdeaPad Duet 10.1 inches FHD (1920 x 1200) Touchscreen 2-in-1 Chromebook, MediaTek Helio P60T, 4GB RAM, 64GB eMMC, Chrome OS, Ice Blue + Iron Grey (Renewed)",
+            "price": 200,
+            "oldprice": "173.00",
+            "image": "https://m.media-amazon.com/images/I/71Z7MnTkFeL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 180,
+        "fields": {
+            "aff_url": "https://amzn.to/3rl4TqO",
+            "title": "Skytech Prism II Gaming Computer PC Desktop - AMD Ryzen 7 5800X 8-Core 3.8GHz, RTX 3080 Ti 12G GDDR6X, 1TB NVMe Gen4 SSD, 16GB DDR4 3200, RGB Fans, 360mm AIO, AC WiFi, Windows 10 Home 64-bit, White",
+            "price": 200,
+            "oldprice": "3099.99",
+            "image": "https://m.media-amazon.com/images/I/814iGw8XwqL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 186,
+        "fields": {
+            "aff_url": "https://amzn.to/3OgMBkH",
+            "title": "LG Gram 17Z95P Laptop 17\" Ultra-Lightweight, IPS, (2560 x 1600), Intel Evo 11th gen CORE i7 , 16GB RAM, 1TB SSD, Windows 11 Home, 80Wh Battery, Alexa Built-in, 2X USB-C, HDMI, USB-A \u2013 Black",
+            "price": "1396.99",
+            "oldprice": "1849.99",
+            "image": "https://m.media-amazon.com/images/I/71Qy5NSsbnL._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 175,
+        "fields": {
+            "aff_url": "https://amzn.to/3JzBa3Z",
+            "title": "HP 15.6\" HD Intel 10th Gen i3-1005G1 3.4GHz 8GB RAM 256GB SSD Win 10 Laptop",
+            "price": 200,
+            "oldprice": "416.00",
+            "image": "https://m.media-amazon.com/images/I/61cNY70JaZL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 180,
+        "fields": {
+            "aff_url": "https://amzn.to/3rkrBQ2",
+            "title": "Lenovo Chromebook Flex 3, 2-in-1, 11.6\" Touch Screen, MT8173",
+            "price": 200,
+            "oldprice": "178.99",
+            "image": "https://m.media-amazon.com/images/I/618pOYNEOBL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 185,
+        "fields": {
+            "aff_url": "https://amzn.to/3E3AtyB",
+            "title": "iBUYPOWER Pro Gaming PC Computer Desktop TraceMR 252i (Intel Core i9-12900KF, GeForce RTX 3090 24 GB, 32GB DDR4 3200MHz,1 TB NVMe SSD + 2 TB HDD, WiFi Ready, Windows 11 Home)",
+            "price": 200,
+            "oldprice": "3799.99",
+            "image": "https://m.media-amazon.com/images/I/610OsYQn+mS._AC_SY355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 198,
+        "fields": {
+            "aff_url": "https://amzn.to/3jwQKCS",
+            "title": "Acer ConceptD 3 Ezel CC314-72G-72SX Convertible Creator Laptop, Intel i7-10750H, GeForce GTX 1650 Max-Q, 14\" FHD, Gorilla Glass, Pantone Validated, 100% sRGB, 16GB, 512GB NVMe SSD, Wacom AES 1.0 Pen",
+            "price": 200,
+            "oldprice": "1499.99",
+            "image": "https://m.media-amazon.com/images/I/71450Kduk4L._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 188,
+        "fields": {
+            "aff_url": "https://amzn.to/3rgkRlZ",
+            "title": "HP 17 Laptop, 11th Gen Intel Core i5-1135G7, 8 GB RAM, 256 GB SSD Storage, 17.3-inch HD+ Display, Windows 10 Home, Anti-Glare Screen, Long Battery Life, Web-cam & Dual Mics (17-cn0021nr, 2021)",
+            "price": 200,
+            "oldprice": "599.00",
+            "image": "https://m.media-amazon.com/images/I/81PRRzGYyAS._AC_SX425_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 179,
+        "fields": {
+            "aff_url": "https://amzn.to/3rlFJIF",
+            "title": "Dell Touchscreen Chromebook 11 3120 Intel Celeron N2840, 4GB RAM, 16GB eMMC SSD Storage, Chrome OS, Black (Renewed)",
+            "price": "67.00",
+            "oldprice": "77.00",
+            "image": "https://m.media-amazon.com/images/I/610o1fsmKNL._AC_SX355_.jpg"
+        }
+    },
+    {
+        "model": "souq.Product",
+        "pk": 186,
+        "fields": {
+            "aff_url": "https://amzn.to/3O51hTx",
+            "title": "Beelink U59 Mini PC with 11th Gen 4-Cores Processor, Windows 10 Pro 16GB DDR4 512G SSD, 4K Triple Display Dual HDMI Type-C Office Mini Computer Support WIN11, BT4.0 Auto Power On/Wake On LAN/PXE",
+            "price": 200,
+            "oldprice": 200,
+            "image": "https://m.media-amazon.com/images/I/51nmrO7kx1L._AC_SX425_.jpg"
         }
     }
 ]

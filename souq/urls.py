@@ -13,6 +13,7 @@ urlpatterns = [
     
     path('', views.homeFunc , name="home"),
     path('about-us', views.aboutUsFunc , name="about-us"),
+    path('contact-us', views.contactUsFunc , name="contact-us"),
     path('privacy-policy', views.privacyPolicyFunc , name="privacy-policy"),
     path('product-api/' ,views.Product_list.as_view(), name="amazon-api"),
     path('productapi/', include(r.urls)),
